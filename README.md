@@ -74,7 +74,8 @@
 
 
 
-## Expanding Horizons: Skills on My Learning Radar
+## Expanding Horizons: Skills on My Learning Radar 🎯
+
 
 ### Backend  
 <div >  
@@ -94,7 +95,7 @@
 
 
 
-# my recently certification
+# My Recently Obtained Certifications 🎓
 [<img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="python" width="50" height="50">]()
 
 
@@ -108,7 +109,7 @@
 - 🤔 I’m looking for help with digital marketing to drive traffic to my blog
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me:
-  **[Twitter](https://twitter.com/ghazikhan205), [Instagram](https://instagram.com/codewithghazi)**
+  **[Twitter](), [Instagram](i)**
 
 
 
