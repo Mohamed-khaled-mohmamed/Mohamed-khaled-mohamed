@@ -1,4 +1,4 @@
-![Banner Image](image/Banner.png)
+![Banner Image](https://imgur.com/a/t1jV5zr)
 
 
 ## Hi there! 👋 I'm 'Mohamed Khaled, front end develober.
