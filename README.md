@@ -57,7 +57,7 @@ Let's connect and build the future together! 🌟
 </div></td><td valign="top" width="33%">
 
 ### my recently certification
-[<img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="python" width="50" height="50">](https://github.com/gkhan205)
+[<img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="python" width="50" height="50">](https://almdrasa.com/certificate-verification/13F283017-139222081-1332C8F95/)
 
 
 ### Visit my 
