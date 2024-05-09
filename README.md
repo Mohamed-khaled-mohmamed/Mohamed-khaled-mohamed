@@ -59,7 +59,7 @@ Let's connect and build the future together! 🌟
 </div></td><td valign="top" width="33%">
 
 ### my recently certification
-[[!python]]
+![[python]]
 
 
 ### Visit my 
