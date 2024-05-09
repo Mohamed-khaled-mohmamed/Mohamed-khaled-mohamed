@@ -1,7 +1,7 @@
 ![Banner Image](https://imgur.com/a/t1jV5zr)
 
 <h3 align="center">
-   Hi there! I'm 'Mohamed Khaled
+   Hi there! I'm Mohamed Khaled
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
