@@ -59,7 +59,7 @@ Let's connect and build the future together! 🌟
 </div></td><td valign="top" width="33%">
 
 ### my recently certification
-[![python]](![PyPI - Python Version](https://img.shields.io/pypi/pyversions/:packageName))
+[tray](https://profilinator.rishav.dev/skills-assets/python-original.svg)
 
 
 ### Visit my 
