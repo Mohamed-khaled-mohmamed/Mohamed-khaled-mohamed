@@ -9,7 +9,7 @@
 ## ,🚀 On My Journey to Master Full Stack Development
 
 
-.
+
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
