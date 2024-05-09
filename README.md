@@ -1,6 +1,7 @@
 ![Banner Image](https://imgur.com/a/t1jV5zr)
 
-## Hi there! 👋 I'm 'Mohamed Khaled, front end develober.
+## Hi there! 👋 I'm 'Mohamed Khaled, 🚀 On My Journey to Master Full Stack Development
+.
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
