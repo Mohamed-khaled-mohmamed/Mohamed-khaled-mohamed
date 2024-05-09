@@ -1,14 +1,14 @@
 ![Banner Image](https://imgur.com/a/t1jV5zr)
 
+## Hi there! 👋 I'm 'Mohamed Khaled, front end develober.
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=learn%20Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
 
 
-## Hi there! 👋 I'm 'Mohamed Khaled, front end develober.
 
 🚀 As a passionate learner diving into the world of front-end development, I'm driven by the excitement of exploring blockchain and backend technologies. While my journey is just beginning, I'm committed to mastering Next.js, React, and Node.js to lay a strong foundation for future endeavors.
 
