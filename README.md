@@ -1,7 +1,7 @@
 ![Banner Image](image/Banner.png)
 
 
-## Hi there! 👋 I'm Ghazi Khan, a passionate Staff Software Engineer at Tech9.
+## Hi there! 👋 I'm 'Mohamed Khaled, front end develober.
 
 🚀 With over a decade of experience, I've honed my skills in crafting top-notch proprietary enterprise software products. My journey is all about utilizing diverse technologies to design, develop, and deploy enterprise-class solutions while gaining deep insights into customers' needs and product usage.
 
@@ -57,7 +57,7 @@ Let's connect and build the future together! 🌟
 </div></td><td valign="top" width="33%">
 
 ### my recently certification
-[<img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="python" width="50" height="50">](https://almdrasa.com/certificate-verification/13F283017-139222081-1332C8F95/)
+[<img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="python" width="50" height="50">]()
 
 
 ### Visit my 
