@@ -56,7 +56,7 @@
 <br/>
 
 
-##  Skills learn now  :
+## My Ongoing Frontend Mastery Journey: :
 
 
 ### Frontend  
@@ -73,8 +73,9 @@
 </div></td><td valign="top" width="33%">
 <br>
 
-##  Skills I want learn  :
 
+
+## Expanding Horizons: Skills on My Learning Radar
 
 ### Backend  
 <div >  
