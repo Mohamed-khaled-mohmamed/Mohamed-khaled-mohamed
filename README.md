@@ -2,10 +2,9 @@
 My personal profile
 ### Hello there 👋
 
-#### A Full-Stack Developer by day ☼ and a Laravel Community Contributor by night ☾
+#### A Full-Stack Developer 
 
-Full-Stack Developer at [Medicare](https://medicare.pt?ref=github-caneco);<br>
-Host/Organizing [Laracon EU](https://laracon.eu?ref=github-caneco);<br>
+
 
 - ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
 - 🌍 I'm mostly active within the **Laravel Community**
