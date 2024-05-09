@@ -56,7 +56,7 @@
 <br/>
 
 
-##  Skills On My Journey  :
+##  Skills learn now  :
 
 
 ### Frontend  
@@ -72,6 +72,9 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" />  
 </div></td><td valign="top" width="33%">
 <br>
+
+##  Skills I want learn  :
+
 
 ### Backend  
 <div >  
