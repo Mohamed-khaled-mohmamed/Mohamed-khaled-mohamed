@@ -10,17 +10,13 @@
 
 ## Hi there! 👋 I'm 'Mohamed Khaled, front end develober.
 
-🚀 With over a decade of experience, I've honed my skills in crafting top-notch proprietary enterprise software products. My journey is all about utilizing diverse technologies to design, develop, and deploy enterprise-class solutions while gaining deep insights into customers' needs and product usage.
+🚀 As a passionate learner diving into the world of front-end development, I'm driven by the excitement of exploring blockchain and backend technologies. While my journey is just beginning, I'm committed to mastering Next.js, React, and Node.js to lay a strong foundation for future endeavors.
 
-👨‍🏭 Leading and mentoring teams, I establish coding standards and UI best practices. My extensive app development background ensures I'm always at the forefront of innovative UI engineering.
 
-🛠️ My tech toolkit includes NextJS, React, React Native, NodeJS, Redux/RTK Toolkit, and Angular. I thrive in Agile environments, where I've spent more than 10 years crafting accessible UIs for web applications, emphasizing iterations, continuous integration, and unwavering quality.
+📚 With a thirst for knowledge and a dedication to growth, I actively seek opportunities to expand my skill set through hands-on experience and collaboration with peers. By immersing myself in open-source projects and embracing challenges head-on, I'm determined to become a versatile developer ready to tackle any task that comes my way. Let's connect and embark on this journey together! 🌟
 
-🔐 Industry Authentication standards like oAuth2? Yep, I've got you covered. Incorporating Authorization aspects into the UI framework is just another day at the office for me.
+💬 As I embark on this journey of exploration and growth, I invite you to reach out to me through my social channels without hesitation. Whether you have questions, ideas to share, or simply want to connect with a fellow enthusiast, I'm here to engage in meaningful conversations and foster a supportive community of learners. Let's connect and inspire each other on this exciting path of discovery! 🌟
 
-🧠 When it comes to problem-solving, my Agile mindset shines through, adapting seamlessly to various methodologies. My knack for breaking down complex technical matters into clear, digestible explanations lets me bridge the gap between tech and business effortlessly.
-
-Let's connect and build the future together! 🌟
 
 <br/>  
 
