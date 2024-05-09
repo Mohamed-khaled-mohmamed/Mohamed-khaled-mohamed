@@ -1,7 +1,7 @@
 
-<span >  Hi there! I'm </span>
+
 <h3 align="center">
- <em>Mohamed Khaled</em>
+ <span >  Hi there! I'm </span> <em>Mohamed Khaled</em>
 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
