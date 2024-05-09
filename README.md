@@ -1,4 +1,3 @@
-![Banner Image](https://imgur.com/a/t1jV5zr)
 
 <h3 align="center">
    Hi there! I'm Mohamed Khaled
