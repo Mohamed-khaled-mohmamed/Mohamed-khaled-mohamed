@@ -60,7 +60,7 @@ Let's connect and build the future together! 🌟
 
 ### my recently certification
 [tray](https://profilinator.rishav.dev/skills-assets/python-original.svg)
-[![python](https://profilinator.rishav.dev/skills-assets/python-original.svg)](https://github.com/gkhan205)
+[![python](https://profilinator.rishav.dev/skills-assets/python-original.svg|hirght=500)](https://github.com/gkhan205)
 
 
 ### Visit my 
