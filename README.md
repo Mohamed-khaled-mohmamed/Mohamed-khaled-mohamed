@@ -58,6 +58,9 @@ Let's connect and build the future together! 🌟
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
 </div></td><td valign="top" width="33%">
 
+### my recently certification
+![python]()
+
 
 ### Visit my 
 **[Blog](https://ghazikhan.in/blog) - [YouTube](https://www.youtube.com/channel/UCio7gIFilw6wsgbTZAVOBrg)**
