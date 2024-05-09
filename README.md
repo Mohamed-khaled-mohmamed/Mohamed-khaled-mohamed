@@ -57,8 +57,7 @@
 <br/>
 
 
-## My Ongoing Frontend Mastery Journey: :
-
+## My Current Learning Endeavors: 📚
 
 ### Frontend  
 <div >  
