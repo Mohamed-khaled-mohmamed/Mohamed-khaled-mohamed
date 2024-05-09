@@ -59,7 +59,6 @@ Let's connect and build the future together! 🌟
 </div></td><td valign="top" width="33%">
 
 ### my recently certification
-[tray](https://profilinator.rishav.dev/skills-assets/python-original.svg)
 [<img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="python" width="50" height="50">](https://github.com/gkhan205)
 
 
