@@ -1,10 +1,10 @@
 
 
-<h1 align="center">
+<h2 align="center">
  <span >  Hi there! I'm </span> <em>Mohamed Khaled</em>
 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h1>
+</h2>
 
 
 ## ,🚀 On My Journey to Master Full Stack Development
