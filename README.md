@@ -1,10 +1,11 @@
+![MasterHead](https://img.freepik.com/premium-vector/programming-typographic-header-it-education-student-write-software-create-code-computer-coding-script-web-project-app-vector-illustration_277904-13340.jpg?w=2000)
 
 
-<h3 align="center">
+<h1 align="center">
  <span >  Hi there! I'm </span> <em>Mohamed Khaled</em>
 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+</h1>
 
 
 ## ,🚀 On My Journey to Master Full Stack Development
