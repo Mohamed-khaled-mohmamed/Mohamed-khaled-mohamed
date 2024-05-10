@@ -1,4 +1,3 @@
-![MasterHead](https://img.freepik.com/premium-vector/programming-typographic-header-it-education-student-write-software-create-code-computer-coding-script-web-project-app-vector-illustration_277904-13340.jpg?w=2000)
 
 
 <h1 align="center">
